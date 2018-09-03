@@ -7,7 +7,7 @@ for(i=0;i<=100000;i++)
 {
 if(i%2 !=0)
 {
-System.out.println("%d",i);
+System.out.println(i);
 }
 }
 }
